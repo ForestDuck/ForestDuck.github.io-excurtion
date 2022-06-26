@@ -15,7 +15,7 @@ font-family: Verdana,'Times New Roman', Times, serif;
 }
 
 video{
-    margin-top:20px;
+margin-top:20px;
 }
 .heading h1 {
 font-weight: normal;
@@ -29,11 +29,11 @@ margin-bottom: 25px;
 }
 
 a:hover{
-color:blue;
+color:lightblue;
 }
 
-a::after{
- color:red;
+a:visited{
+color:purple;
 }
 
 .expl h1{
