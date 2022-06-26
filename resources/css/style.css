@@ -1,3 +1,15 @@
-﻿body
-{
+﻿* 
+* ::after
+*::before{
+ margin:0;
+ padding:0;
+ border:0;
+ box-sizing:inherit;
+}
+html{
+font-family: Verdana,'Times New Roman', Times, serif;
+}
+body {
+background-color:black;
+color:white;
 }
